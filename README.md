@@ -1,11 +1,19 @@
 # Simulasi Regresi Non-Linier Interaktif
-Copyright © 2025 Michael Christia Putra
+Copyright © 2025 [Michael Christia Putra]
 
 ---
 
 Sebuah aplikasi web interaktif yang dibangun menggunakan Streamlit untuk melakukan analisis dan perbandingan beberapa model regresi non-linier. Aplikasi ini membantu pengguna menemukan model matematis yang paling cocok untuk set data mereka berdasarkan nilai *Sum of Squared Errors* (SSE) terkecil.
 
-![Contoh Hasilnya](https://github.com/user-attachments/assets/e1d66ccf-8231-45e1-ace6-4d384ceef099)
+## Input Data
+![Cuplikan layar 2025-07-05 003723](https://github.com/user-attachments/assets/4159e112-7466-4224-ad00-f2fd05241f70)
+
+## Plotting Data
+![Cuplikan layar 2025-07-05 003854](https://github.com/user-attachments/assets/366cdd08-ed5c-494e-84b5-220d49ede494)
+
+## Model Terbaik
+![Cuplikan layar 2025-07-05 003952](https://github.com/user-attachments/assets/954eac0d-c7e7-4250-b151-27680d9767a2)
+
 
 ## 📖 Deskripsi Proyek
 Proyek ini bertujuan untuk menyediakan alat yang mudah digunakan bagi mahasiswa, peneliti, atau analis data untuk memvisualisasikan dan menganalisis hubungan non-linier dalam data. Daripada melakukan perhitungan manual yang rumit, pengguna dapat secara dinamis memasukkan data dan langsung melihat perbandingan tiga model regresi umum.
