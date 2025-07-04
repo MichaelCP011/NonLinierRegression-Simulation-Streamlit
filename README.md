@@ -5,7 +5,7 @@ Copyright © 2025 Michael Christia Putra
 
 Sebuah aplikasi web interaktif yang dibangun menggunakan Streamlit untuk melakukan analisis dan perbandingan beberapa model regresi non-linier. Aplikasi ini membantu pengguna menemukan model matematis yang paling cocok untuk set data mereka berdasarkan nilai *Sum of Squared Errors* (SSE) terkecil.
 
-!Contoh Hasilnya (Kelompok 4 - Regresi Non Linier - Metode Numerik (A).png)
+![Contoh Hasilnya](https://github.com/user-attachments/assets/e1d66ccf-8231-45e1-ace6-4d384ceef099)
 
 ## 📖 Deskripsi Proyek
 Proyek ini bertujuan untuk menyediakan alat yang mudah digunakan bagi mahasiswa, peneliti, atau analis data untuk memvisualisasikan dan menganalisis hubungan non-linier dalam data. Daripada melakukan perhitungan manual yang rumit, pengguna dapat secara dinamis memasukkan data dan langsung melihat perbandingan tiga model regresi umum.
